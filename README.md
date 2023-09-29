@@ -15,3 +15,6 @@ As a data analyst in the supply chain team who joined AtliQ Mart recently.Follow
 
 ### Tools used to complete the project :
 I utilized Microsoft Power BI to extract insights and created report according to the stakeholders requirement 
+
+### Interactive dashboard:
+https://www.novypro.com/project/atliq-supply-chain-analysis-2
